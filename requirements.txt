@@ -1,0 +1,8 @@
+# Local wheels
+wheels/Fiona-1.8.21-cp39-cp39-win_amd64.whl
+wheels/GDAL-3.4.3-cp39-cp39-win_amd64.whl
+wheels/Shapely-1.8.2-cp39-cp39-win_amd64.whl
+
+# Packages
+pandas==1.4.3
+geopandas==0.11.1
